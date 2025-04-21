@@ -27,8 +27,8 @@ Within the modeling domain used in Assignment 1, use freely available satellite 
 - A document that briefly explains how you measured phenology and productivity and summarises your results. Include a map that shows changes between the two time periods.
 
 ## Assignment 3: Vegetation structural metrics
-This link will let you access a lidar point cloud for a small plot of land. Using the lidar data, choose 3-5 metrics that you think best describe the structure of the vegetation. Consider both vertical and horizontal heterogeneity. You may geographically subset the data for computational efficiency. Provide the following outputs in a folder called *structural_metrics*:
-- a reproducible script for processing the lidar data and deriving the metrics you choose.
+[This link](https://naturalstate3030-my.sharepoint.com/:u:/g/personal/mrogan_naturalstate_org/EYdf2YP_pZlOt4LVaQm2x6IBwFhVj-Ci5irJ-5rpmTMt6g?e=k6JY2J) will let you access a lidar point cloud (.las) for a small plot of land. Using the lidar data, choose 3-5 metrics that you think best describe the structure of the vegetation. Consider both vertical and horizontal heterogeneity. You may geographically subset the data for computational efficiency. Provide the following outputs in a folder called *structural_metrics*:
+- a reproducible script for processing the lidar data and deriving the metrics you choose. Carefully annotate your code.
 - A document that briefly summarises in a few hundred words the metrics you chose and the results of your analysis. Proivde links to any sources you used to choose your metrics. Include at least one map of horizontal structural heterogeneity/complexity and at least one map of vertical structure.
 
 
