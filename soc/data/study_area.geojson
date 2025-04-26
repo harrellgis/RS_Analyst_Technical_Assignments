@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "study_area",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "width": 0.166504, "height": 0.45753, "angle": 98.509741, "area": 0.076181, "perimeter": 1.248067 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.078725498122736, 0.356898096834875 ], [ 37.531218150861683, 0.289193967359054 ], [ 37.506579299223873, 0.124523076168913 ], [ 37.054086646484919, 0.192227205644734 ], [ 37.078725498122736, 0.356898096834875 ] ] ] ] } }
+]
+}
