@@ -1,0 +1,5 @@
+# Ignore all dot files
+.*
+# Do not ignore .git/ and .gitignore
+!.git/
+!.gitignore
