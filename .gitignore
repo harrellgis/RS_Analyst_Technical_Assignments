@@ -3,3 +3,5 @@
 # Do not ignore .git/ and .gitignore
 !.git/
 !.gitignore
+# Ignore all .las files
+*.las
